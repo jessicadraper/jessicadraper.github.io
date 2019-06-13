@@ -37,24 +37,52 @@ p {
 
 .header,
 .main-content {
-	width: 769px;
+	width: 768px;
 	margin: auto;
-	margin-bottom: 70px;
+	padding: 0 30px;
+	box-sizing: border-box;
 }
 
 
 /* ---------- Header ---------- */
+
+.header {
+	display: flex;
+	margin-top: -60px;
+	margin-bottom: 40px;
+}
+
+.header .headshot {
+	flex: 0 0 200px;
+	margin-right: 50px;
+}
+
+.header .headshot img {
+	border-radius: 200px;
+	border: 10px solid #fff;
+	box-sizing: border-box;
+}
+
+.header .title {
+	margin-top: 50px;
+}
 
 .header #myname {
 	margin-bottom: 0;
 }
 
 .header .contact {
-	margin-top: 10px;
+	margin-top: 5px;
 	font-family: Gill Sans;
 	font-size: 18px;
 }
 
+
+/* ---------- Header ---------- */
+
+.main-content {
+	margin-bottom: 70px;
+}
 
 /* ---------- CV Bar ---------- */
 
@@ -73,6 +101,7 @@ p {
 	display: block;
 	border: 1px solid #fff;
 	text-decoration: none;
+	letter-spacing: .05em;
 	padding: 10px;
 	width: 200px;
 	margin: auto;
@@ -85,4 +114,27 @@ p {
 .cv-bar a:hover {
 	background: #fff;
 	color: #847E9A;
+}
+
+/* ---------- Responsive ---------- */
+
+@media only screen and (max-width: 768px) {
+	.header,
+	.main-content {
+		width: 100%;
+		text-align: center;
+	}
+	
+	.header {
+		display: block;
+	}
+	
+	.header .title {
+		margin-top: 0;
+	}
+	
+	.header .headshot {
+		width: 220px;
+		margin: auto;
+	}
 }
