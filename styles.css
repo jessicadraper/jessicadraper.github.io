@@ -13,13 +13,16 @@ body img {
 	width: 100%;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
 	font-family: Gill Sans;
 	font-weight: 400;
+	line-height: 1.1;
+	color: #2f3c49;
 }
 
 h1 {
 	font-size: 3em;
+	margin-bottom: 15px;
 }
 
 h2 {
@@ -27,10 +30,49 @@ h2 {
 	letter-spacing: .1em;
 }
 
+h3 {
+	font-family: Gill Sans;
+	color: #425567;
+	letter-spacing: .1em;
+	margin-bottom: 10px;
+	font-size: 1.1em;
+
+}
+
+h4 {
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-size: .9em;
+	color: #333;
+}
+
 p {
 	font-family: Merriweather;
 	font-size: 16px;
-	line-height: 1.8;
+	line-height: 1.3;
+}
+
+ul {
+	margin-top: 0;
+	font-family: Merriweather;
+	list-style: square;
+}
+
+ul li {
+	margin-bottom: 5px;
+}
+
+a {
+	color: #4b6771;
+	text-decoration: none;
+	font-weight: bold;
+	
+	-webkit-transition: opacity .2s ease-in-out 0s;
+	-moz-transition: opacity .2s ease-in-out 0s;
+}
+
+a:hover {
+	opacity: .8;
 }
 
 /* ---------- Layout ---------- */
@@ -82,7 +124,7 @@ p {
 	margin-top: 40px;
 }
 
-.header #myname {
+.header .myname {
 	margin-bottom: 0;
 }
 
@@ -91,17 +133,49 @@ p {
 	font-family: Gill Sans;
 	font-size: 18px;
 	line-height: 1;
+	color: #2f3c49;
+	letter-spacing: .02em;
 }
 
 .header .contact i {
 	font-size: .8em;
 }
 
+.header .contact span.location {
+	display: inline-block;
+	block;
+	padding: 7px 10px;
+	border-radius: 2px;
+	margin-top: 10px;
+	border: 0px solid #668995;
+	text-transform: uppercase;
+	letter-spacing: .07em;
+	background: #e9f0f3;
+	font-size: .8em;
+	margin-right: 15px;
+}
 
-/* ---------- Header ---------- */
+.header .contact span.linkedin a {
+	font-weight: normal;
+	color: #4b6771;
+}
 
+.header .contact span.linkedin i {
+	font-size: 1em;
+}
+
+
+/* ---------- Main Content ---------- */
+
+.front p {
+	line-height: 1.8;
+}
 .main-content {
 	margin-bottom: 70px;
+}
+
+.projects {
+	margin: 70px 0;
 }
 
 /* ---------- CV Bar ---------- */
@@ -110,6 +184,13 @@ p {
 .cv-bar {
 	background: #668995;
 	padding: 70px 20px;
+}
+
+.cv-options {
+	display: flex;
+	justify-content: space-around;
+	width: 768px;
+	margin: auto;
 }
 
 .cv-bar a {
@@ -122,18 +203,74 @@ p {
 	border: 0px solid #fff;
 	text-decoration: none;
 	letter-spacing: .1em;
-	padding: 15px 15px;
-	width: 200px;
+	padding: 15px 25px;
 	margin: auto;
 	text-align: center;
+	width: 200px;
+	box-sizing: border-box;
 	
 	-webkit-transition: all .2s ease-in-out 0s;
 	-moz-transition: all .2s ease-in-out 0s;
 }
 
-.cv-bar a:hover {
-
+.cv-options div {
+	flex: 0 0 50%;
 }
+
+.cv-options div:first-child {
+	border-right: 1px solid #fff;
+}
+
+/* ---------- CV Styles ---------- */
+
+.cv h2 {
+	border-top: 1px solid rgba(66, 84, 103, 0.15);
+	padding-top: 15px;
+	margin-top: 50px;
+}
+
+.cv h2:first-child {
+	margin-top: 25px;
+}
+
+.cv > div {
+	display: flex;
+}
+
+.cv > div > p {
+	flex-basis: 150px;
+	font-family: Gill Sans;
+	color: #425567;
+	letter-spacing: .1em;
+}
+
+.cv > div > p.skill {
+	flex-basis: 250px;
+	margin-right: 20px;
+	font-size: 1.1em;
+}
+
+.cv > div > span {
+	flex-basis: calc(100% - 150px);
+}
+
+.cv p {
+	line-height: 1.4;
+	margin-bottom: 5px;
+}
+
+.cv span ul li {
+	font-family: Roboto;
+	font-size: .9em;
+}
+
+.cv ul li {
+	font-family: Roboto;
+	line-height: 1.4;
+	margin-bottom: 10px;
+}
+
+
 
 /* ---------- Responsive ---------- */
 
@@ -141,7 +278,10 @@ p {
 	.header,
 	.main-content {
 		width: 100%;
-		text-align: center;
+	}
+	
+	h1 {
+		font-size: 2.5em;
 	}
 	
 	.header {
@@ -152,9 +292,31 @@ p {
 		margin-top: 0;
 	}
 	
+	.header .contact span {
+		display: block;
+		margin-bottom: 10px;
+	}
+	
 	.header .headshot {
 		width: 220px;
-		margin: auto;
+	}
+	
+	.cv-options {
+		display: block;
+		width: 200px;
+	}
+	
+	.cv-options div {
+		border: 0!important;
+	}
+	
+	.cv-options a {
+		border: 1px solid #fff;
+		width: 100%;
+	}
+	
+	.cv-options div:first-child {
+		margin-bottom: 20px;
 	}
 }
 
@@ -196,6 +358,7 @@ p {
 }
 .hvr-sweep-to-bottom:hover, .hvr-sweep-to-bottom:focus, .hvr-sweep-to-bottom:active {
   color: #668995;
+  opacity: 1;
 }
 .hvr-sweep-to-bottom:hover:before, .hvr-sweep-to-bottom:focus:before, .hvr-sweep-to-bottom:active:before {
   -webkit-transform: scaleY(1);
