@@ -21,13 +21,14 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-	font-size: 3em;
+	font-size: 2.8em;
 	margin-bottom: 15px;
 }
 
 h2 {
 	text-transform: uppercase;
 	letter-spacing: .1em;
+	font-size: 1.3em;
 }
 
 h3 {
@@ -100,6 +101,27 @@ a:hover {
 
 .image-header {
 	height: 350px;
+	position: relative;
+	
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.35) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.35) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.35) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+
+.image-header p {
+	color: #fff;
+	font-family: Roboto;
+	font-size: .8em;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	
+	margin: 0;
+	padding: 15px 20px;
+}
+
+.image-header p span {
+	font-family: Gill Sans;
 }
 
 .header {
@@ -128,6 +150,11 @@ a:hover {
 	margin-bottom: 0;
 }
 
+.header .myname a {
+	font-weight: normal;
+	color: #2f3c49;
+}
+
 .header .contact {
 	margin-top: 10px;
 	font-family: Gill Sans;
@@ -137,31 +164,26 @@ a:hover {
 	letter-spacing: .02em;
 }
 
+.header .contact span {
+	margin-right: 10px;
+}
+
 .header .contact i {
 	font-size: .8em;
 }
 
-.header .contact span.location {
-	display: inline-block;
-	block;
-	padding: 7px 10px;
-	border-radius: 2px;
-	margin-top: 10px;
-	border: 0px solid #668995;
-	text-transform: uppercase;
-	letter-spacing: .07em;
-	background: #e9f0f3;
-	font-size: .8em;
-	margin-right: 15px;
-}
-
 .header .contact span.linkedin a {
 	font-weight: normal;
-	color: #4b6771;
 }
 
 .header .contact span.linkedin i {
-	font-size: 1em;
+	font-size: 1.3em;
+	position: relative;
+	top: 2px;
+}
+
+.header a:hover {
+	opacity: 1;
 }
 
 
@@ -223,6 +245,21 @@ a:hover {
 
 /* ---------- CV Styles ---------- */
 
+.cv-title {
+	display: flex;
+	align-items: center;
+}
+
+.cv-title h3, .cv-title h4 {
+	line-height: 1!important;
+	margin: 0 10px 0 0;
+}
+
+.cv-title h4 {
+	position: relative;
+	top: 1px;
+}
+
 .cv h2 {
 	border-top: 1px solid rgba(66, 84, 103, 0.15);
 	padding-top: 15px;
@@ -270,7 +307,81 @@ a:hover {
 	margin-bottom: 10px;
 }
 
+.cv .references {
+	flex-wrap: wrap;
+	font-size: .9em;
+}
 
+.cv .references p em {
+	font-size: .9em;
+}
+
+.cv .references div {
+	flex: 0 0 50%;
+}
+
+
+/* ---------- Footer ---------- */
+
+.footer-wrapper {
+	background: #eef1f1;
+	
+}
+
+.footer {
+	width: 768px;
+	margin: auto;
+	padding: 70px 30px;
+}
+.footer .flex-table div {
+	display: flex;
+	align-items: center;
+	width: 290px;
+	margin: auto;
+}
+
+.footer .flex-table div p {
+	margin: 0;
+	font-family: Roboto;
+}
+
+.footer .flex-table div p.label {
+	flex: 0 0 130px;
+	font-family: Gill Sans;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-size: .85em;
+	text-align: right;
+	margin-right: 20px;
+}
+
+.footer .icons {
+	width: 290px;
+	margin: auto;
+	text-align: center;
+	margin-top: 20px;
+}
+.footer .icons a {
+	display: inline-block;
+	background: #668995;
+	color: #fff;
+	padding: 10px;
+	border-radius: 100px;
+	margin: 7px;
+	line-height: 1;
+}
+
+.footer p.location {
+	text-align: center;
+	font-family: Gill Sans;
+	padding: 7px 10px;
+	border-radius: 2px;
+	margin-top: 10px;
+	border: 0px solid #668995;
+	letter-spacing: .07em;
+	font-size: .9em;
+	margin-bottom: 0;
+}
 
 /* ---------- Responsive ---------- */
 
@@ -317,6 +428,14 @@ a:hover {
 	
 	.cv-options div:first-child {
 		margin-bottom: 20px;
+	}
+	
+	.cv > div {
+		display: block;
+	}
+	
+	.cv > div > span p {
+		margin-top: 0;
 	}
 }
 
