@@ -333,11 +333,12 @@ a:hover {
 	margin: auto;
 	padding: 70px 30px;
 }
+
 .footer .flex-table div {
 	display: flex;
 	align-items: center;
-	width: 290px;
 	margin: auto;
+	width: 240px;
 }
 
 .footer .flex-table div p {
@@ -346,7 +347,7 @@ a:hover {
 }
 
 .footer .flex-table div p.label {
-	flex: 0 0 130px;
+	flex: 0 0 80px;
 	font-family: Gill Sans;
 	text-transform: uppercase;
 	letter-spacing: .1em;
