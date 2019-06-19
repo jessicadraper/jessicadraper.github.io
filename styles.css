@@ -239,9 +239,9 @@ a:hover {
 	flex: 0 0 50%;
 }
 
-.cv-options div:first-child {
+/*.cv-options div:first-child {
 	border-right: 1px solid #fff;
-}
+}*/
 
 /* ---------- CV Styles ---------- */
 
@@ -332,6 +332,7 @@ a:hover {
 	width: 768px;
 	margin: auto;
 	padding: 70px 30px;
+	color: #2f3c49;
 }
 
 .footer .flex-table div {
@@ -344,6 +345,7 @@ a:hover {
 .footer .flex-table div p {
 	margin: 0;
 	font-family: Roboto;
+	padding: 3px 0;
 }
 
 .footer .flex-table div p.label {
@@ -378,10 +380,10 @@ a:hover {
 	padding: 7px 10px;
 	border-radius: 2px;
 	margin-top: 10px;
-	border: 0px solid #668995;
 	letter-spacing: .07em;
 	font-size: .9em;
 	margin-bottom: 0;
+	color: #2f3c49;
 }
 
 /* ---------- Responsive ---------- */
