@@ -5,6 +5,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
 	font-family: "Roboto", sans-serif;
 	color: #333;
@@ -607,10 +611,21 @@ a:hover {
 
 /* --- main content --- */
 
+.port-wrapper a.anchor {
+    display: block;
+    position: relative;
+    top: -230px;
+    visibility: hidden;
+}
+
 .port-wrapper .main-content {
 	/*flex: 0 0 calc(100% - 250px);*/
 	width: 80%;
-	margin-top: 200px;
+	/*margin-top: 200px;*/
+}
+
+.port-wrapper .main-content {
+	margin-top: 250px;
 }
 
 .port-wrapper .main-content p {
@@ -638,14 +653,14 @@ a:hover {
 .port-wrapper .main-content .port > div {
 	display: flex;
 	justify-content: space-between;
-	align-items: center;
+	margin-bottom: 75px;
 }
 
-.port-wrapper .main-content .port > div h2 {
+.port-wrapper .main-content .port > div div:first-child {
 	flex: 0 0 35%;
 }
 
-.port-wrapper .main-content .port > div p {
+.port-wrapper .main-content .port > div div:last-child {
 	flex: 0 0 calc(100% - 45%);
 }
 
