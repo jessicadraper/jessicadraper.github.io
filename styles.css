@@ -535,3 +535,91 @@ a:hover {
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
 }
+
+
+
+/* ---------- Portfolio Page Styles ---------- */
+
+.port-wrapper {
+	display: flex;
+}
+
+/* --- menu --- */
+
+.port-wrapper .menu {
+	
+	background: #668995;
+	padding: 30px;
+	box-sizing: border-box;
+	flex-basis: 250px;
+	position: relative;
+	
+	/*flex: 0 0 250px;*/
+}
+
+.port-wrapper .menu > ul {
+	padding: 0;
+	list-style: none;
+	position: fixed;
+	width: calc(250px - 60px)
+}
+
+.port-wrapper .menu ul a {
+	color: #fff;
+	font-family: Avenir;
+	font-weight: 300;
+	padding: 10px 15px;
+	display: block;
+	background: rgba(0, 0, 0, 0.11);
+}
+
+/* --- main content --- */
+
+.port-wrapper .main-content {
+	/*flex: 0 0 calc(100% - 250px);*/
+	max-width: 1024px;
+	flex-basis: 100%;
+	margin-top: 50px;
+}
+
+.port-wrapper .main-content p {
+	font-size: 14px;
+	line-height: 1.6;
+}
+
+/* header */
+
+.port-wrapper .main-content .port-header {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.11);
+	margin-bottom: 15px;
+}
+
+.port-wrapper .main-content .port-header h2 {
+	margin-bottom: 0;
+}
+
+.port-wrapper .main-content .port-header h5 {
+	margin-top: 0;
+}
+
+/* portfolio */
+
+.port-wrapper .main-content .port > div {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.port-wrapper .main-content .port > div h2 {
+	flex: 0 0 35%;
+}
+
+.port-wrapper .main-content .port > div p {
+	flex: 0 0 calc(100% - 45%);
+}
+
+.port-wrapper .main-content .port > div:nth-child(even) {
+	flex-direction: row-reverse;
+}
+
+
