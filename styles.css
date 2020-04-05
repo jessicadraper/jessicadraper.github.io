@@ -540,30 +540,62 @@ a:hover {
 
 /* ---------- Portfolio Page Styles ---------- */
 
-.port-wrapper {
+/*.port-wrapper {
 	display: flex;
-}
+}*/
 
 /* --- menu --- */
 
 .port-wrapper .menu {
 	
 	background: #668995;
-	padding: 30px;
 	box-sizing: border-box;
-	flex-basis: 250px;
-	position: relative;
+	padding: 30px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	z-index: 1;
+	text-align: center;
+}
+
+.port-wrapper .menu h4 {
+	text-align: center;
+	color: #fff;
+	margin-top: 0;
+	font-weight: 500;
+	letter-spacing: 3px;
 	
-	/*flex: 0 0 250px;*/
+	display: inline-block;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 10px 0;
+	width: calc(25.5%);
+	border-color: rgba(255, 255, 255, 0.2);
+}
+
+.port-wrapper .menu h4 span {
+	font-size: .75em;
+	font-weight: 200;
+	letter-spacing: 2px;
 }
 
 .port-wrapper .menu > ul {
 	padding: 0;
 	list-style: none;
-	position: fixed;
-	width: calc(250px - 60px)
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	margin-bottom: 0;
+	width: 80%;
+	margin: auto;
 }
 
+.port-wrapper .menu > ul li {
+	flex: 0 1 calc(33.33% - 15px);
+	text-align: center;
+	margin: 0;
+}
+	
 .port-wrapper .menu ul a {
 	color: #fff;
 	font-family: Avenir;
@@ -577,9 +609,8 @@ a:hover {
 
 .port-wrapper .main-content {
 	/*flex: 0 0 calc(100% - 250px);*/
-	max-width: 1024px;
-	flex-basis: 100%;
-	margin-top: 50px;
+	width: 80%;
+	margin-top: 200px;
 }
 
 .port-wrapper .main-content p {
@@ -623,3 +654,24 @@ a:hover {
 }
 
 
+@media only screen and (max-width: 520px) {
+	.port-wrapper .menu > ul {
+		display: block;
+	}
+	
+	.port-wrapper .menu {
+		position: relative;
+	}
+	
+	.port-wrapper .menu > ul li {
+		margin-bottom: 5px;
+	}
+	
+	.port-wrapper .main-content {
+		margin-top: 50px;
+	}
+	
+	.port-wrapper .main-content .port > div {
+		display: block;
+	}
+}
