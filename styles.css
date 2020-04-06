@@ -580,7 +580,7 @@ a:hover {
 .port-wrapper .menu h4 span {
 	font-size: .75em;
 	font-weight: 200;
-	letter-spacing: 2px;
+	letter-spacing: 2.2px;
 }
 
 .port-wrapper .menu > ul {
@@ -654,6 +654,7 @@ a:hover {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 75px;
+	align-items: center;
 }
 
 .port-wrapper .main-content .port > div div:first-child {
@@ -664,10 +665,37 @@ a:hover {
 	flex: 0 0 calc(100% - 45%);
 }
 
-.port-wrapper .main-content .port > div:nth-child(even) {
+/*.port-wrapper .main-content .port > div:nth-child(even) {
 	flex-direction: row-reverse;
+}*/
+
+/* web */
+
+.port #web {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
 }
 
+.port #web > div {
+	flex: 0 0 calc(50% - 15px);
+}
+
+.port #web > div img {
+	box-shadow: 0 0px 5px rgba(0, 0, 0, 0.12);
+}
+
+/* data viz */
+
+#dataviz {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+#dataviz > div {
+	flex: 0 0 calc(25% - 15px);
+}
 
 @media only screen and (max-width: 520px) {
 	.port-wrapper .menu > ul {
