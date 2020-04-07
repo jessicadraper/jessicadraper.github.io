@@ -589,7 +589,7 @@ a:hover {
 .port-wrapper .menu h4 span {
 	font-size: .75em;
 	font-weight: 400;
-	letter-spacing: 2.2px;
+	letter-spacing: 2.6px;
 }
 
 .port-wrapper .menu > ul {
@@ -786,7 +786,7 @@ a:hover {
 	padding: 10px 0;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 	display: block;
-	font-weight: 600;
+	font-weight: 700;
 }
 
 .port div#writing ul li:last-child a {
