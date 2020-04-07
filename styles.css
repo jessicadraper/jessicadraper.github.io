@@ -4,7 +4,7 @@
 /*********** Jessica Draper Site Styles **********/
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Red+Hat+Text:wght@400;500;700&family=Roboto:wght@300;400;700&display=swap');
 
 html {
   scroll-behavior: smooth;
@@ -786,6 +786,7 @@ a:hover {
 	padding: 10px 0;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 	display: block;
+	font-weight: 600;
 }
 
 .port div#writing ul li:last-child a {
