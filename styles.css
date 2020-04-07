@@ -4,6 +4,7 @@
 /*********** Jessica Draper Site Styles **********/
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&display=swap');
 
 html {
   scroll-behavior: smooth;
@@ -20,8 +21,8 @@ body img {
 }
 
 h1, h2, h3, h4 {
-	font-family: Avenir;
-	font-weight: 400;
+	font-family: 'Red Hat Text', sans-serif;
+	font-weight: 400!important;
 	line-height: 1.1;
 	color: #2f3c49;
 }
@@ -54,7 +55,7 @@ h4 {
 }
 
 h5 {
-	font-family: Avenir;
+	font-family: 'Red Hat Text', sans-serif;
 	font-size: 1.05em;
 	color: #425567;
 	letter-spacing: .04em;
@@ -128,18 +129,17 @@ a:hover {
 
 .image-header p {
 	color: #fff;
-	font-family: Avenir;
+	font-family: 'Red Hat Text', sans-serif;
 	font-size: .8em;
 	position: absolute;
 	bottom: 0;
 	right: 0;
-	
 	margin: 0;
 	padding: 15px 20px;
 }
 
 .image-header p span {
-	font-family: Avenir;
+	font-family: 'Red Hat Text', sans-serif;
 }
 
 .header {
@@ -171,13 +171,13 @@ a:hover {
 .header .myname a {
 	font-weight: normal;
 	color: #2f3c49;
-	font-family: Avenir;
-	font-weight: 500;
+	font-family: 'Red Hat Text', sans-serif;
+	font-weight: 400;
 }
 
 .header .contact {
 	margin-top: 10px;
-	font-family: Avenir;
+	font-family: 'Red Hat Text', sans-serif;
 	font-size: 16px;
 	line-height: 1;
 	color: #2f3c49;
@@ -269,8 +269,8 @@ a:hover {
 }
 
 .cv-bar a {
-	font-family: Gill Sans;
-	font-weight: normal;
+	font-family: 'Red Hat Text', sans-serif;
+	font-weight: 500;
 	text-transform: uppercase;
 	color: #fff;
 	display: block;
@@ -329,7 +329,7 @@ a:hover {
 
 .cv > div > p {
 	flex-basis: 150px;
-	font-family: Gill Sans;
+	font-family: 'Red Hat Text', sans-serif;
 	color: #425567;
 	letter-spacing: .1em;
 }
@@ -397,13 +397,13 @@ a:hover {
 
 .footer .flex-table div p {
 	margin: 0;
-	font-family: Roboto;
+	font-family: 'Red Hat Text', sans-serif;
 	padding: 3px 0;
 }
 
 .footer .flex-table div p.label {
 	flex: 0 0 80px;
-	font-family: Gill Sans;
+	font-family: 'Red Hat Text', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: .1em;
 	font-size: .85em;
@@ -421,15 +421,19 @@ a:hover {
 	display: inline-block;
 	background: #668995;
 	color: #fff;
-	padding: 10px;
+	padding: 10px 11px;
 	border-radius: 100px;
 	margin: 7px;
 	line-height: 1;
 }
 
+.footer .icons a I {
+	width: 14px;
+}
+
 .footer p.location {
 	text-align: center;
-	font-family: Gill Sans;
+	font-family: 'Red Hat Text', sans-serif;
 	padding: 7px 10px;
 	border-radius: 2px;
 	margin-top: 10px;
@@ -492,6 +496,11 @@ a:hover {
 	
 	.cv > div > span p {
 		margin-top: 0;
+	}
+	
+	.footer {
+		width: 100%;
+		box-sizing: border-box;
 	}
 }
 
@@ -566,7 +575,7 @@ a:hover {
 	text-align: center;
 	color: #fff;
 	margin-top: 0;
-	font-weight: 500;
+	font-weight: 500!important;
 	letter-spacing: 3px;
 	
 	display: inline-block;
@@ -579,7 +588,7 @@ a:hover {
 
 .port-wrapper .menu h4 span {
 	font-size: .75em;
-	font-weight: 200;
+	font-weight: 400;
 	letter-spacing: 2.2px;
 }
 
@@ -602,11 +611,12 @@ a:hover {
 	
 .port-wrapper .menu ul a {
 	color: #fff;
-	font-family: Avenir;
-	font-weight: 300;
+	font-family: 'Red Hat Text', sans-serif;
+	font-weight: 400;
 	padding: 10px 15px;
 	display: block;
 	background: rgba(0, 0, 0, 0.11);
+	letter-spacing: .03em;
 }
 
 /* --- main content --- */
@@ -625,7 +635,7 @@ a:hover {
 }
 
 .port-wrapper .main-content {
-	margin-top: 250px;
+	margin-top: 230px;
 }
 
 .port-wrapper .main-content p {
@@ -636,24 +646,29 @@ a:hover {
 /* header */
 
 .port-wrapper .main-content .port-header {
-	border-bottom: 1px solid rgba(0, 0, 0, 0.11);
-	margin-bottom: 15px;
+	/*border-bottom: 1px solid rgba(0, 0, 0, 0.11);*/
+	margin-bottom: 45px;
+	width: 700px;
+	margin: 0 auto 50px auto;
 }
 
-.port-wrapper .main-content .port-header h2 {
-	margin-bottom: 0;
+.port-wrapper .main-content .port-header p {
+	font-family: 'Red Hat Text', sans-serif;
+	font-size: 1.2em;
+	margin: auto;
+	color: #444;
 }
 
-.port-wrapper .main-content .port-header h5 {
-	margin-top: 0;
+.port-wrapper .main-content .port-header p strong {
+	color: #425e67;
+	font-weight: 500;
 }
-
 /* portfolio */
 
 .port-wrapper .main-content .port > div {
 	display: flex;
 	justify-content: space-between;
-	margin-bottom: 75px;
+	margin-bottom: 100px;
 	align-items: center;
 }
 
@@ -667,12 +682,12 @@ a:hover {
 
 .port-wrapper .main-content .port > div:nth-child(odd) > div:first-child {
 	border-right: 2px solid #eee;
-	padding-right: 25px;
+	padding-right: 35px;
 }
 
 .port-wrapper .main-content .port > div:nth-child(even) > div:first-child {
 	border-left: 2px solid #eee;
-	padding-left: 25px;
+	padding-left: 35px;
 }
 
 .port-wrapper .main-content .port > div:nth-child(odd) > div:first-child h3,
@@ -687,6 +702,10 @@ a:hover {
 
 .port-wrapper .main-content .port > div:nth-child(even) {
 	flex-direction: row-reverse;
+}
+
+.port-wrapper .main-content .port div:last-child div {
+	border: 0!important;
 }
 
 /* web */
@@ -758,6 +777,10 @@ a:hover {
 	padding: 0;
 }
 
+.port div#writing ul li {
+	margin-bottom: 0;
+}
+
 .port div#writing ul li a {
 	font-family: Roboto;
 	padding: 10px 0;
@@ -765,8 +788,13 @@ a:hover {
 	display: block;
 }
 
+.port div#writing ul li:last-child a {
+	border-bottom: 0;
+}
+
 .port div#writing ul li a span {
 	font-weight: 300;
+	font-size: .9em;
 }
 
 .port div#writing ul li i {
@@ -774,7 +802,8 @@ a:hover {
 	right: 0;
 }
 
-@media only screen and (max-width: 520px) {
+@media only screen and (max-width: 768px) {
+	/* menu */
 	.port-wrapper .menu > ul {
 		display: block;
 	}
@@ -787,11 +816,38 @@ a:hover {
 		margin-bottom: 5px;
 	}
 	
+	/* port header */
+	
+	.port-wrapper .main-content .port-header {
+		width: 100%;
+	}
+	
+	/* port content */
+	
+	.port-wrapper .main-content {
+		width: 90%;
+	}
 	.port-wrapper .main-content {
 		margin-top: 50px;
 	}
 	
 	.port-wrapper .main-content .port > div {
 		display: block;
+		padding-bottom: 40px;
+		border-bottom: 1px solid #eee;
+	}
+	
+	.port-wrapper .main-content .port > div:last-child {
+		border: 0;
+	}
+	
+	.port-wrapper .main-content .port > div:nth-child(odd) > div:first-child,
+	.port-wrapper .main-content .port > div:nth-child(even) > div:first-child {
+		border: 0;
+		padding: 0;
+	}
+	
+	.port-wrapper .main-content .port > div > div {
+		margin-bottom: 50px;
 	}
 }
