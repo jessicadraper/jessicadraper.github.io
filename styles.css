@@ -44,13 +44,13 @@ h3 {
 	letter-spacing: .05em;
 	margin-bottom: 10px;
 	font-weight: 500;
-	font-size: 1.3em;
+	font-size: 1.4em;
 }
 
 h4 {
 	text-transform: uppercase;
 	letter-spacing: .1em;
-	font-size: .9em;
+	font-size: 1em;
 	color: #333;
 }
 
@@ -577,6 +577,7 @@ a:hover {
 	margin-top: 0;
 	font-weight: 500!important;
 	letter-spacing: 3px;
+	font-size: 1em;
 	
 	display: inline-block;
 	border-top: 1px solid #fff;
@@ -624,8 +625,41 @@ a:hover {
 .port-wrapper a.anchor {
     display: block;
     position: relative;
-    top: -400px;
+    top: -230px;
     visibility: hidden;
+}
+
+.port-wrapper a.button {
+	border: 1px solid #4b6771;
+	padding: 8px 10px;
+	-webkit-transition: all .2s ease-in-out 0s;
+	-moz-transition: all .2s ease-in-out 0s;
+	font-size: .95em;
+	margin-right: 5px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+
+.port-wrapper a.button:hover {
+	background: #4b6771;
+	color: #fff;
+	opacity: 1;
+}
+
+.port-wrapper #code p,
+.port-wrapper .writing p,
+.port-wrapper .web p {
+	font-weight: 300;
+}
+
+.port-wrapper p.highlight {
+	font-size: 1em!important;
+	font-weight: 400!important;
+}
+
+.port-wrapper h4 {
+	margin-top: 25px;
+	margin-bottom: 15px;
 }
 
 .port-wrapper .main-content {
@@ -639,22 +673,22 @@ a:hover {
 }
 
 .port-wrapper .main-content p {
-	font-size: 14px;
+	font-size: 16px;
 	line-height: 1.6;
 }
 
-/* header */
+/* job header */
 
 .port-wrapper .main-content .port-header {
 	/*border-bottom: 1px solid rgba(0, 0, 0, 0.11);*/
 	margin-bottom: 45px;
-	width: 700px;
+/*	width: 700px;*/
 	margin: 0 auto 50px auto;
 }
 
 .port-wrapper .main-content .port-header p {
 	font-family: 'Red Hat Text', sans-serif;
-	font-size: 1.2em;
+	font-size: 1.4em;
 	margin: auto;
 	color: #444;
 }
@@ -665,28 +699,42 @@ a:hover {
 }
 /* portfolio */
 
-.port-wrapper .main-content .port > div {
+/*.port-wrapper .main-content .port > div {
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 100px;
 	align-items: center;
+}*/
+
+/* flex/page styles */
+
+.port-wrapper .main-content .port .flex-wrapper {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 100px;
+	margin-top: 50px;
 }
 
-.port-wrapper .main-content .port > div div:first-child {
-	flex: 0 0 35%;
+.port-wrapper .main-content .port .flex-wrapper > div {
+	flex: 0 0 47%;
 }
 
-.port-wrapper .main-content .port > div div:last-child {
-	flex: 0 0 calc(100% - 45%);
+.port-wrapper .main-content .port .flex-wrapper.web {
+	flex-direction: row-reverse;
 }
 
-.port-wrapper .main-content .port > div:nth-child(odd) > div:first-child {
-	border-right: 2px solid #eee;
+.port-wrapper .main-content .port .flex-wrapper.web,
+.port-wrapper .main-content .port .flex-wrapper.writing {
+	align-items: center;
+}
+
+.port-wrapper .main-content .port .flex-wrapper.web #web {
+	border-right: 2px solid #eee!important;
 	padding-right: 35px;
 }
 
-.port-wrapper .main-content .port > div:nth-child(even) > div:first-child {
-	border-left: 2px solid #eee;
+.port-wrapper .main-content .port .flex-wrapper.writing #writing {
+	border-left: 2px solid #eee!important;
 	padding-left: 35px;
 }
 
@@ -742,6 +790,15 @@ a:hover {
 
 }
 
+#dataviz > div:last-child {
+	flex-basis: 100%;
+	margin-top: 15px;
+}
+
+#dataviz > div:last-child p {
+	text-align: center;
+}
+
 #dataviz > div > p {
 	font-family: Roboto;
 	color: #666;
@@ -755,19 +812,10 @@ a:hover {
 	margin-bottom: 25px;
 }
 
-#data #code a.button {
-	border: 1px solid #4b6771;
-	padding: 8px 10px;
-	-webkit-transition: all .2s ease-in-out 0s;
-	-moz-transition: all .2s ease-in-out 0s;
-	font-size: .95em;
-	margin-right: 5px;
-}
+/* survey data */
 
-#data #code a.button:hover {
-	background: #4b6771;
-	color: #fff;
-	opacity: 1;
+.survey-data {
+	margin-bottom: 100px;
 }
 
 /* writing */
@@ -779,14 +827,15 @@ a:hover {
 
 .port div#writing ul li {
 	margin-bottom: 0;
+	position: relative;
 }
 
 .port div#writing ul li a {
 	font-family: Roboto;
 	padding: 10px 0;
 	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-	display: block;
 	font-weight: 700;
+	display: block;
 }
 
 .port div#writing ul li:last-child a {
@@ -801,8 +850,38 @@ a:hover {
 .port div#writing ul li i {
 	position: absolute;
 	right: 0;
+	top: 21px;
 }
 
+@media only screen and (max-width: 1024px) {
+	.port-wrapper .main-content .port .flex-wrapper {
+		flex-direction: column!important;
+		margin-bottom: 50px;
+	}
+	
+	.port-wrapper .main-content .port .flex-wrapper.data #code {
+		order: 1;
+	}
+	
+	.port-wrapper .main-content .port .flex-wrapper.data #data {
+		order: 2;
+	}
+	
+	.port-wrapper .main-content .port .flex-wrapper > div {
+		width: 100%;
+	}
+	
+	.port-wrapper .main-content .port .flex-wrapper.web #web {
+	border: 0!important;
+	padding: 0;
+	margin-top: 10px;
+}
+
+.port-wrapper .main-content .port .flex-wrapper.writing #writing {
+	border: 0!important;
+	padding: 0;
+}
+}
 @media only screen and (max-width: 768px) {
 	/* menu */
 	.port-wrapper .menu > ul {
