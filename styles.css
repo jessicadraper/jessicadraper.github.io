@@ -1,10 +1,11 @@
 /* @override 
-	https://jessidraper.github.io/jessicadraper/styles.css */
+	https://jessidraper.github.io/jessicadraper/styles.css
+	https://jessicadraper.github.io/styles.css */
 
 /*********** Jessica Draper Site Styles **********/
 
 @import url('https://fonts.googleapis.com/css?family=Merriweather|Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Red+Hat+Text:wght@400;500;700&family=Roboto:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Red+Hat+Text:wght@400;500;700&family=Roboto:wght@300;400;700&display=swap');
 
 html {
   scroll-behavior: smooth;
