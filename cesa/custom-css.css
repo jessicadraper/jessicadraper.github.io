@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif!important;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row .col {
+    flex: 0 0 calc(50% - 20px);
+}
+
+.player {
+    margin: 50px 0;
+}
