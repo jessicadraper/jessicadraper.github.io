@@ -11902,8 +11902,8 @@ var AblePlayerInstances = [];
 
 					var openBracket = str.indexOf('[');
 					var closeBracket = str.indexOf(']');
-					var openParen = str.indexOf('(');
-					var closeParen = str.indexOf(')');
+					var openParen = -1;
+					var closeParen = -1;
 
 					var hasBrackets = openBracket !== -1 && closeBracket !== -1;
 					var hasParens = openParen !== -1 && closeParen !== -1;
@@ -11911,7 +11911,7 @@ var AblePlayerInstances = [];
 					if (hasParens || hasBrackets) {
 						if (parts > 1) {
 							// force a line break between sections that contain parens or brackets
-							//var silentSpanBreak = '<br/>';
+							var silentSpanBreak = '<br/>';
 						}
 						else {
 							var silentSpanBreak = '';

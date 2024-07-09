@@ -1,0 +1,885 @@
+WEBVTT
+
+00:00:00.000 --> 00:01:03.000
+[E] Estamos aquí con XY. Es el tres de octubre de dos mil doce. Muchas gracias por estar aquí, por venir a la entrevista. Este, voy a empezar con datos más demográficos. En primer lugar, ¿cuál es tu edad?
+[P] Veintidós años.
+[E] Veintidós años, okey. Y vives aquí en Tucson, ¿verdad?
+[P] Mhm.
+[E] ¿Y tu nivel más alto: de formación académica:?
+[P] Tengo una licenciatura o bachillerato, Bachelor's (CC)
+[E] Pero estás en la maestría, /mhm/ ¿verdad? ¿Y a qué edad empezaste a aprender el español?
+[P] Mm, /¿Desde qué naciste?/ desde que nací
+[E] ¿Y el inglés?
+[P] Inglés lo empecé a aprender a los ocho, nueve años de edad
+[E] Muy bien. Y, ¿a qué edad empezaste a sentirte cómodo usa:ndo el español?
+
+00:01:04.000 --> 00:02:05.000
+[P] No sé.
+[E] Mhm, cuando eras muy chiquito
+[P] Sí.
+[E] ¿Y el inglés?
+[P] El inglés como a los diez, once años, tal vez doce años
+[E] Mhm. ¿Y cuántos años de clases como gramática, historia, matemáticas (...)
+[P] Mhm
+[E] Uh, has tenido en el español? O sea, ¿desde la primaria? ¿La universidad?
+[P] Desde primaria
+[E] ¿El español?
+[P] Mhm.
+[E] ¿Y el inglés?
+[P] También desde primaria. Pero:, pero (…) no continuamente de este entonces. Sí.
+[E] Sí, okey. ¿Y cuántos años has pasado en un país o región donde se habla el español? ¿Casi toda tu vida? 
+[P] Pues aquí se habla español so (CC) sí toda mi vida.
+[E] Y el inglés también, ¿verdad? ¿No?
+[P] Mm, inglés no. Uh:, hasta que me mudé a Estados Unidos a los ocho, nueve años. Ocho años. Mhm.  
+
+00:02:06.000 --> 00:02:59.000
+[E] Muy bien. Y, ¿cuántos años has pasado en familia hablando español?
+[P] En familia, toda mi vida.
+[E] Toda tu vida.
+[P] Mhm. 
+[E] ¿Toda tu familia habla español? 
+[P] Mhm. 
+[E] Y, ¿el inglés?
+[P] ¿En familia? (…) Bueno, mis papás hablan español de toda la vida y con ellos nomás hablo español (...)
+[E] Mhm
+[P] pero mi hermano: (…) cuando él empezó a aprender inglés, poco a poco ya nomás hablo inglés con él.
+[E] Sí. 
+[P] Ahora, yo le hablo en español, me contesta en inglés.
+[E] Mhm.
+[P] Y por eso, yo le hablo en inglés nomás. 
+[E] ¿Sí? ¿Y hace cuánto tiempo que empezaste a hacer eso con él?
+[P] Diré que a los… doce años tal vez. 
+[E] A los doce años, 
+[P] Pero con mis papás siempre hablo español.
+
+00:03:00.000 --> 00:03:59.000
+[E] Ah ok. ¿Y cuántos años has pasado en un ambiente de trabajo donde se habla el español?
+[P] ¿El español? En trabajo:, um (…) un año
+[E] ¿Y /por/ en inglés?
+[P] Un año también.  Porque trabajé por un año, nomás he trabajado un año.
+[E] Mhm [risas]
+[P] Y era un ambiente bilingüe de-que hablaba inglés
+[E] Oh, está muy bien. Y en una semana normal, ¿qué porcentaje del tiempo usas el español?
+[P] Mm, cincuenta por ciento tal vez
+[E] ¿Y el inglés?
+[P] También. 
+[E] ¿También?
+[P] Mhm.
+[E] Y ¿hablas alguna otra idioma? ¿Otro idioma?
+[P] Sí, hablo un nivel muy básico de francés, o tal vez intermedio
+[E] ¿Y hables francés?
+[P] Francés 
+[E] Aha, pero durante la semana
+[P] Oh durante la semana,
+
+00:04:00.000 --> 00:05:06.000
+[E] ¿Cómo cinco por ciento? ¿Diez por ciento?
+[P] Sí, no, tal vez, un un por ciento.
+[E] [risas] un por ciento.
+[P] Sí. Algo muy bajo sí.
+[E] Mm. Y en una semana normal, ¿qué porcentaje del tiempo usas el español con tu familia? ¿Con tu pas-con tus papás? 
+[P] Mis papás, /¿cien por ciento?/ cien por ciento
+[E] ¿Y con tu hermano cien por ciento en inglés?
+[P] Sí a veces le hablo en español yo.
+[E] ¿Cómo ochenta por ciento /ochenta por ci-/ digamos?
+[P] Noventa en inglés y diez en español y me contesta en inglés siempre [risas]
+[E] ¿Y qué porcenti, qué porcentaje del tiempo usas el español en la escuela o en el trabajo, casi cien por ciento?
+[P] Cincuenta y cincuenta, ¿no?
+[E] Mm, mm (...)
+[P] ¿O aquí no? 
+[E] Lo que usas con tus estudiantes, o con tus profesores, con tus profesores más el español y con /tal vez…/ tus estudiantes más el inglés.  
+[P] No con mis estudiantes tengo que hablar español y: tal vez ochenta y veinte (…) porque
+
+00:05:07.000 --> 00:06:02.000
+[E] ¿Ochenta español?
+[P] Ochenta español, veinte inglés
+[E] Veinte inglés
+[P] Mhm
+[E] ¿Y francés?
+[P] Mm, nada de francés [risa]
+[E] Nada. Y, cuando hablas con ti mismo, ¿con qué frecuencia hables [risas] o: en español?
+[P] Cincuenta y cincuenta
+[E] ¿Sí?
+[P] A veces conscientemente me hablo a mi mismo en español, digo en-en francés. 
+[E] ¡Oh! ¿En francés? ¿Cuánto porcentaje?
+[P] Tendríamos que cambiar los números de [risas] del otro, ¿no?
+[E] No, no, no está bien. 
+[P] Mm, tal vez un veinte- c:i:n- -cuenta por ciento en francés
+[E] en francés (...) Y, cuando haces cálculos contando, ¿con qué frecuencia [risa] cuentas en español?
+
+00:06:03.000 --> 00:07:00.000
+[P] No sé. Um, no me doy cuenta
+[E] ¿No?
+[P] M-m [negación]
+[E] ¿O el inglés?
+[P] Diría que cincuenta y cincuenta, no estoy seguro.
+[E] ¿Sí? No, está bien.  Y en esta sección, nos gustaría que consideras su competencia de lengua marcando (…) de u-cero a
+[P] Cinco
+[E] A sies
+[P] A seis
+[E] ¿Cómo hablas en español?
+[P] Mm… hablando, cinco tal vez 
+[E] Cinco. ¿Y en inglés?
+[P] También
+[E] ¿Cómo entendi- ¿Cómo entiendes en español?
+[P] Mm… también cinco porque hay dialectos que…
+[E] Que (...) es difícil 
+[P] Mhm
+[E] Sí, me pa-, me pasa a mí también. ¿y en inglés? 
+[P] También un cinco.
+[E] ¿Y cómo lees en español?
+
+00:07:01.000 --> 00:07:59.000
+[P] Cinco. Y
+[E] ¿En inglés?
+[P] También. 
+[E] ¿Y cómo escribes en español?
+[P] Cuatro [risas].
+[E] ¿Y en inglés?
+[P] Cinco.
+[E] Bien. Gracias. Y lista. La, la última parte /mhm/ So (CC) en esta parte nos gustaría que contestaras uh las siguientes informaciones sobre actitudes lingüísticas marcando de cero a, a seis.  "Me siento yo mismo [risas] cuando hablo en español" ¿Estás de acuerdo o no estás de acuerdo?
+[P] Cuatro. 
+[E] Cuatro. ¿Y en inglés?
+[P] Esta es, esta: parte de este, de este, de este ejercicio es todo, uhm, ya lo había hecho con otro [risas]
+[E] ¿Sí?
+[P] Sí, por- con XY.
+[E] Ah ok.
+[P] XY me ha hecho otro experimento (...) 
+[E] ¿Así? Similar
+[P] Uhuh. No me acuerdo que puse pero creo que era cuatro y cuatro
+
+00:08:00.000 --> 00:08:59.000
+[E] ¿Sí?
+[P] Mhm.
+[E] "Me identifico con una cultura hispanohablante."
+[P] Cinco. 
+[E] "Anglohablante."
+[P] Cuatro.
+[E] "Es importante para mí usar o llegar a usar el español como un hablante nativo."
+[P] Cinco.
+[E] "Y el inglés como hablante nativo."
+[P] Cinco. [risas]
+[E] "Quiero que los demás piensen que soy un hablante nativo de español."
+[P] Cinco. /cinco/ [risas] Y cinco.
+[E] De inglés, ¿sí? Muy bien. Está muy bien. So (CC) ya tenemos esto, so (CC) vamos a empezar con esto. ¿Y dónde naciste?
+[P] Nací en Tucson. 
+[E] Tucson.
+[P] Pero no soy de Tucson. [risas]
+[E] Oh no, está bien. ¿Y dónde te criaste? XX
+[P] Bueno, los prime:ros: ocho años de mi vida: e:n Nogales, Sonora.
+[E] Mhm
+[P] A los ocho me mudé (...)
+[E] ¿En México?
+
+00:09:00.000 --> 00:10:00.000
+[P] En México. A las ocho años me mudé a Nogales, Arizona, Estados Unidos. Que está (…) pegadito no, unas-una ciudad está pegada a la otra, nomás que están en lados opuestos de, de la frontera
+[E] De la frontera, sí, sí. ¿Y en qué año naciste?
+[P] Mil novecientos ochenta y nueve
+[E] Ochenta y nueve. Entonces, este, uhm, aunque estás en la maestría, pero ya tienes tu licenciatura, bachillerato, ¿verdad?
+[P] Mhm, sip. 
+[E] Highest level of completed (CC)
+[P] Mhm
+[E] Gracias. ¿Y dónde fuiste a-para tu licenciatura?
+[P] Phoenix (PI) Estuve en
+[E] ¿En ASU (CC)?
+[P] ASU (CC)
+[E] ¿Y cuántos años, ento-desde que tenías ocho años, has pasado la vida en Estados Unidos?
+[P] Mhm. Como catorce años
+[E] Como catorce. ¿Y cuánto tiempo en Tucson?
+[P] Llegué hace dos, tres meses [risas]
+
+00:10:01.000 --> 00:10:59.000
+[E] ¿Pero has vivido casi toda tu vida en el sur de Arizona?
+[P] Mhm. Nogales está como a una, menos de una hora de Tucson.
+[E] Mhm. Sí, sí, sí, no está lejos. ¿Y dónde vives ahora?
+[P] Aquí en Tucson.
+[E] Pero, ¿en qué vecindario?
+[P] Ehm (...) como a diez minutos (...)
+[E] So (CC) cerca de la universidad
+[P] En la universidad, muy cerca de la universidad.
+[E] ¿Y antes vivías con tus papás? ¿Cuando no estabas en ASU (PI)?
+[P] Mhm. Si no estoy en ASU (PI), vivía con mis papás.
+[E] ¿Y dónde viven ellos?
+[P] Nogales, Arizona.
+[E] Mhm, pero, ¿qué parte? ¿El norte? ¿El sur? Este (...)
+[P] Mm
+[E] ¿No /no/ hay cómo (...)?
+[P] Si hay regiones /como no he ido/ Mm, la regiones, (risa) una, una, este, una muchacha una vez dijo, "Oh you live… "what did she say?", east of the tracks. And she was like "ohhh" [risas] making signs of gangster signs. (CC)
+[E] Uhuh
+[P] Sí, porque es una región
+
+00:11:00.000 --> 00:12:20.000
+[E] So (CC) en el este /sureña/ de… uh huh /y este/… ahh…
+[P] Y sí la parte sureña del pueblo siempre está un poco… no es ta:n, rica
+[E] Uh huh
+[P] Y: está más llena de cholos y del… /sí/ pero son las, así (...) Y: yo vivía en una vecindad (…) calmada (…) pero sí había un- una que otra casa con cholos /¿Sí?/ Mhm. / ¿Pero estabas en…?/ Es la región sur- sureste de Nogales. 
+[E] Sureste de Nogales
+[P] Mhm
+[E] Gracias. Y ahorita eres estudiante de maestría, pero ¿qué quieres hacer en el futuro? O sea, después de graduarte, ¿qué será tu profesión?
+[P] Mhm, mmm… no sé porque /deseada/ si me interesan muchos de los temas de lingüística. Yo empecé originalmente queriendo ser traductor /mhm/ y no hay mucho que se los ofrezca a los traductores al nivel de universidad /mhm/ y de maestrías. Mm… por es-, estoy en eso, o en traducción o en algún de lingüística /okey/ nomás que no, no he visto que área de lingüística me in- me interesa más.
+
+00:12:21.000 --> 00:13:00.000
+[E] Estoy en lo mismo.
+[P] ¿Sí?
+[E] Esta, y, "Household yearly income" (CC), ¿qué será?
+[P] ¿Mío? ¿O de mis papás?
+[E] No, el tuyo.
+[P] Mm. [risas] pos ¿cuánto ganas tú? es lo mismo
+[E] Como qui:nce mil, quince mil
+[P] ¿Pero nomás tienes este trabajo?
+[E] Por año. Mhm.
+[P] Nomás con este, debe de ser lo mismo.
+[E] Sí, es lo mismo. ¿Y nomás eres tú y tu hermano, dónde vives?
+[P] Mhm. XXX
+[E] ¿Y tus papás nomás hablan el español? /mhm/ ¿O hablan inglés también?
+[P] Entienden pero no (...)
+
+00:13:01.000 --> 00:14:06.000
+[E] Pero no tienen, casi no, no tienen necesidades, ¿verdad? de hablar en esp /la verdad es que no/ en inglés porque /nunca han tenido/ allá es (...).
+[P] Por eso mi mamá está tratando de aprender y no entiende porque de que de cuantos años de estudiar, no aprende y es que no tiene contacto con nadie que habla inglés.
+[E] Claro. [risas] ¿Y qué hace tu mamá?
+[P] Mm. Está retirada.
+[E] Ah okey. ¿Qué hacía?
+[P] Era secretaria en el Instituto del Seguro Social Mexicano.
+[E] Wow. ¿Y tu papá?
+[P] Trabaja en un mercado pero está por retirarse también. 
+[E] Muy bien, y: ¿qué ha sido, este, nivel más (…) más alto de educación formal que han tenido tu mamá? o /¿Mi mamá?/ ¿Qué ha tenido tu mamá?
+[P] Mi mamá llegó hasta la preparatoria
+[E] ¿Y tu papá también?
+[P] No, mi papá lleva hasta la secundaria.
+[E] Okey. ¿Y dónde nació tu mamá?
+[P] Mi mamá en Benjamín Hill, Sonora. Es un pueblo al sur de Hermosillo, Sonora.
+
+00:14:07.000 --> 00:15:00.000
+[E] Oh okey. ¿Y tu papá también? ¿O no?
+[P] No, mi papá nació en el D.F. 
+[E] Ah.
+[P] Mhm.
+[E] Muy bien. Entonces, hablas español, inglés, y ¿estás estudiando francés? O nomás, este, como, ¿tú crees que es u:na lengua que hablas o una (...)?
+[P] Oh, nomás lo estudié… y si le hablo algo, lo hablo de las clases. No hablo [risas]
+[E] Sí.
+[P] Por contacto con nativos.
+[E] Gotcha (CC). Y ¿cómo te identi-identifiques?
+[P] [risas] Bueno, soy hispano, méxicoamericano, uhm, no sé, en qué categorías caigan pero [risas]
+[E] Y sí te identifiques. ¿Y tu raza, ¿será igual?
+[P] Es lo mismo, no, no sé distinguir entre etnicidad y raza.
+
+00:15:01.000 --> 00:16:04.000
+[E] ¿Y tu religión?
+[P] Cristiano. Mhm.
+[E] ¿Algo (...)?
+[P] ¿Afiliación?
+[E] Mhm.
+[P] Mm: no.
+[E] Y políticalmente, ¿cómo te identifiques? Afiliación política
+[P] No tengo afil-
+[E] No
+[P] No, no tengo partido
+[E] ¿Y tienes familia todavía en México?
+[P] Sí
+[E] ¿En Sonora?
+[P] Mucha familia
+[E] ¿Y vas, entonces, mucho a Sonora?
+[P] Casi ya no. Mm:
+[E] Por lo que está pasando (...)
+[P] No solo lo que está pasando sino que s, se han ido… distanciando porque, pues, no sé, con el tiempo, y luego los abuelos ya no está:n.
+[E] Mm, cambia
+[P] Cosas así, mhm.
+[E] Si, ¿verdad? En, Entonces, ¿vas a México como rara vez o…?
+[P] A veces voy a…
+[E] O sea, ¿frecuentemente?
+[P] Voy a comer [risas] Cada año, al menos dos veces a visitar familia.
+
+00:16:05.000 --> 00:17:28.000
+[E] Mhm. ¿Pero como um, una vez al mes?
+[P] Pon una vez tal vez. Aunque nomás sea por una hora [risas]
+[E] Ents, la comida debe ser muy rica entonces. [risas]
+[P] Es que en Nogales, Sonora, Arizona, no hay mucho de dónde escoger
+[E] ¿No?
+[P] Para restauranes, y en Sonora sí.
+[E] Mm. Gotcha (CC) okey.
+[P] Mhm.
+[E] Y entonces, ¿tu familia viene de México a visitarlos? ¿O no mucho?
+[P] No. Hay problemas con eso porque muchos de ellos no tienen, o están muy muy lejos o no tienen mm, sus visas.
+[E] Mm. Pos, más difícil. Y para estar seguro, segura, ¿no estás casado?
+[P] No estoy casado. [risas]
+[E] No tienes hijos.
+[P] No tengo hijos. [risas]
+[E] Supondría que no. Bueno. Ya con esto estamos. [papers shuffling around] Tons, sería. Okey. ¿Y cómo ha cambiado, este, esta parte (…) de Arizona desde ahora hasta que cuando eras niño? O sea, ¿cómo ha cambiado el sur de Arizona? O incluso Nogales
+
+00:17:29.000 --> 00:18:14.000
+[P] Mhm. Bueno desde, desde septiembre once, el once de septiembre, diría yo que es lo que se ha cambiado más
+[E] Mhm
+[P] En los últimos diez anos.
+[E] Pero, ¿en qué sentido?
+[P] Mm: leyes, uhm, estabilidad de, de la gente, ¿no? Pues, mucha gente asustada, mucho más hoy que antes. Uhm, es muy difícil ahora cruzar y toma mucho más tiempo, hay más restricciones en lo que puedes traer contigo, uhm, a fuerzas tienes que traer documentación y antes no, antes podías pasar y decir "soy, soy ciudadano de Estados Unidos" y te dejaban pasar.  Ahora no.
+
+00:18:15.000 --> 00:18:59.000
+[E] Mhm.
+[P] Uhm, pues sí, eso.
+[E] Sí. Como nunca he vivido acá en Arizona, pero sí pasé tiempo en Texas, es igual.
+[P] Mhm.
+[E] Completamente igual. Mhm. Y: Mm ¿y cómo (...)? O sea, ¿qué te gustaría (...)? ¿Qué te gustó hacer cuando eras niño?
+[P] ¿Qué me gustaba hacer?
+[E] Mhm.
+[P] Dibujar. Dibujaba mucho. Uhm. Me gustaban las matemáticas.
+[E] ¿Sí?
+[P] Y siempre fui bueno en matemáticas este, hasta la preparatoria porque ya en la universidad ya no tomé cursos de matemática.
+
+00:19:00.000 --> 00:20:19.000
+[E] Mhm
+[P] Mhm. Pero sí era lo que me gustaba más hacer. Dibujar. Es que mi papá era pintor.
+[E] Mm:
+[P] Mhm.
+[E] Mhm. Y entonces, ¿pero es cuando estabas en México o cuando ya llegabas a Arizona?
+[P] Toda mi vida.
+[E] Mhm.
+[P] Mhm.
+[E] ¿Y te acuerdas algo de tu estancia en México? ¿Cuando eras más chiquito?
+[P] [risas]. Muchas cosas.
+[E] ¿Sí? ¿Cómo qué?
+[P] ¿Cualquier cosa?
+[E] Uhuh.
+[P] Uhm: Vivíamos en unos depas, uhm, que se llaman Villa Sonora, la región. Villa Sonora. Y: bueno, según me cuentan mis papas, a mi casa les decía la casita los colores o la de los coloritos porque era una cara, casa, eran los depas que pintaban un edificio un color, otro edificio otro color, otro edificio otro color y por eso decía "vamos a la casita de los coloritos" para decir, para nuestra casa. Uhm. Me acuerdo de mis vecinos [risas] me gustaba jugar con una niña en seguida que se llama Vi- Viri, Viridiana. Jugaba mucho con ella. Pero era mucho mayor que yo. Uhm, pero siempre jugábamos en la noche afuera como rondas, como naranja, dulce limón para ti. ¿No?
+
+00:20:20.000 --> 00:21:00.000
+[E] No, no sé eso. ¿Qué es?
+[P] Bueno, todos los niños se agarran de la mano.
+[E] Ah, es como Red Rover (CC)
+[P] Como rondas (...)
+[E] Ah
+[P] Y cantan canciones y a veces uhm hacen como, cuando los atrapas así. No me acuerdo como eran pero tengo memorias de eso. A veces me mandaban a comprar tortillas uhm, tengo memorias de eso porque me gustaban mucho las tortillas de maíz y siempre iba yo por las tortillas de maíz. Y el señor siempre me decía que sí era Guachito porque siempre le pedía tortillas de maíz y chiles jalapeños. Po- Por eso me mandaban.
+[E] Mhm.
+
+00:21:01.000 --> 00:22:01.000
+[P] Y yo no entendía por qué. Y ya me lo explicaron después que en Sonora se acostumbra más a comer tortillas de harina y en el sur se acostumbra más comer tortillas de maíz, y por eso pensaban que, pos me decían el Guachito, porque tenía gustos sureños más bien. [risas]
+[E] Qué chistoso.
+[P] Sí. De m-, de la, de las primarias eh (…) de las escuelas me acuerdo de mucho también. Mhm.
+[E] Y entonces, ya estás, ya que estás hablando comida. ¿Cuál es tu comida favorita?
+[P] No tengo comida favorita pero [risas] desde chiquito siempre me gustaban mucho las papas fritas, las papas fritas [risas], desde chiquito pero ya últimamente, no, mm: diría yo (…) entre salmón, me gusta mucho el salmón. [risas]
+[E] Mhm. ¿Y como cuando regresas a Sonora, qué comes allí? O sea, ¿en qué restaurante? ¿Hay un restaurante en específico que te gusta (...)
+
+00:22:02.000 --> 00:23:00.000
+[P] Mm
+[E] Comer allí?
+[P] Casi nunca pido la misma cosa tampoco. Mm: pero casi no como carne de res y: me voy más por los pescados y por el pollo. No como carne de puerco. [risas]
+[E] ¿Nunca?
+[P] Tampoco, casi. No, mi familia nunca se acostumbró. Y no sé si es porque mi papá siempre nos dice que mi abuelo, su papá, se murió por comer mucha carne de puerco y [risas] no sé si le creo pero pues, en mi fam- casa, nunca comen carne de puerco y hasta hoy no la acostumbro
+[E] ¿Y has probado las hot dogs (CC) sonorenses?
+[P] ¿Estilo sonora?
+[E] Uhuh.
+[P] Sí, en las calles los venden, ¿no?
+[E] Uhuh. Bueno, aquí fui a comer. [risas] Y, pues, tan, muy grandes, ¿no?
+[P] Elaborados.
+[E] Mhm.
+[P] Y les ponen frijoles, y les ponen todo.
+[E] ¿Pero qué llevan? O sea, nunca entendí.
+
+00:23:01.000 --> 00:24:00.000
+[P] Ay, [risas] ni sé
+[E] Muchas cosas
+[P] Lleva un montón de cosas.
+[E] Mhm. [risas] Sí, hay un lugar que se llama "BK" aquí que se supone que, que venden eso. Pero yo fui a, al Güero Canelo. [risas] ¿Y hay uno en Sonora? ¿También o no?
+[P] ¿Un qué?
+[E] Güero Canelo
+[P] No creo.
+[E] Es un restaurante de.
+[P] Es de acá ese, ¿no?
+[E] Sí, no. No, no estoy segura.
+[P] No creo que allá
+[E] ¿No?
+[P] No me gusta el Güero Canelo para empezar. [risas]
+[E] ¿No?
+[P] Mhm.
+[E] ¿Qué te gusta?
+[P] ¿Del? Me gusta si la comida es casera pero, no acostumbro restaurantes mexicanos: en Estados Unidos [risas]
+[E] ¿Por qué?
+[P] No sé. Como que se me hace algo: que se puede comer en casa y
+[E] ¿Mejor?
+[P] Vas a comer algo que no comes en casa, lo vas a comer en otros restaurantes. Se me hace
+[E] ¿Y cocinas o no?
+
+00:24:01.000 --> 00:25:08.000
+[P] M-m (negación), más o menos. No
+[E] ¿Qué sabes hacer?
+[P] Moiz. [risas] Cereal. Eh, también he tenido
+[E] Mhm.
+[P] debates con otras personas porque yo uso mucho la palabra "moiz" M-O-I-Z para hablar de cereal. También uso la palabra maizoro M-A-I-Z-O-R-O para hablar del maizoro. Y sé que hay mucha gente de Sonora que usa esas palabras pero hay gente de México que no me entienden
+[E] ¿No?
+[P] Cuando digo "moiz" o "maizoro"
+[E] ¿Por qué no?
+[P] Porque ellos usan "cereal".
+[E] Mm.
+[P] Más bien.
+[E] Pero, ¿por qué usas esas palabras? ¿Nomás por la región? ¿De dónde vienes? ¿Y te acostumbraste a…?
+[P] De toda mi vida he dicho 'moiz" [risa]
+[E] ¿Sí? Ah, okey. No, nunca había escuchado esas palabras antes.
+[P] Moiz. [risas]
+[E] No.
+[P] ¿Quieres moiz?
+[E] [risas] No, no, nunca, nunca. Y entonces, este, me imagino que eres bueno para el cereal, pan tostado, [risas]
+[P] [risas] Sí.
+[E] Este, ¿qué más? O sea, ¿qué ha, qué /a veces/comes en casa?
+[P] Uhm, bueno, pues, a veces la hablo a mi mamá para preguntarle cómo hacer por ejemplo espagueti o pescado o cosas así.
+
+00:25:09.000 --> 00:26:18.000
+[E] ¿Y comes afuera mucho? ¿O no?
+[P] No, casi no. Soy muy consciente del- de cuánto gasto.
+[E] ¿Sí?
+[P] Sí.
+[E] Eso es bueno. Eso siempre es bueno. [risas] Y entonces, y ¿cómo son tus papás? A ver, como estás hablando un poco más de ellos.
+[P] ¿Cómo son?
+[E] Sí, ¿cómo son?
+[P] [risas] Bueno, mi mamá es pelo oscuro, mm: medio chaparrita, no tan chaparrita. Toda su familia es muy alta y por eso dicen que yo salí y mi hermano también salió muy alto. Hay muchas personas muy altas en la familia.  Es de piel mucho más blanca que la mía [risas] y es uhm: (…) llenita, uhm (…) tiene canas [risas]. Uhm, se pelea mucho con mi papá [risas] de vez en cuando. Mi papá es un poco más chaparro que yo, uhm, casi del mismo color que yo, más oscuro. Uhm, ¿qué más? Es narizón por decir.
+
+00:26:19.000 --> 00:27:13.000
+[E] ¿Sí?
+[P] Un poco narizón. Dice que el rasgo distintivo de la familia es la nariz porque dice que todos son muy narizones en su familia. Uhm: ¿qué más?
+[E] ¿Y cómo son sus personalidades?
+[P] Mm: bueno mi mamá es muy social, para todo le gusta ir a eventos familiares y a la iglesia, todos, todo, va, no una vez a la semana a la iglesia sino como tres o cuatro veces a la semana
+[E] ¿Ah sí?
+[P] Va a la iglesia, habla mucho con gente de la iglesia, con familia. Es muy social y muy así. Mi papá es más reservado, no le gusta salir. Uhm, [risa] le gusta leer mucho, le gusta, quiere ponerse a pintar pero no tiene tiempo. Mm dice, y ve muchos programas de televisión, muchas películas. 
+
+00:27:14.000 --> 00:28:09.000
+[E] Tal vez cuando se jubila
+[P] Mhm
+[E] Va a tener más tiempo para leer
+[P] Sí, y ya, ya está por jubilarse también por
+[E] Mhm, y tu hermano, ¿cómo es?
+[P] uhm: mi hermano es muy reservado
+[E] ¿Sí?
+[P] Uhm (…) sí (…) pero por razo:nes (…) médicas, tal vez se puede decir.
+[E] Oh (...) Mhm.
+[P] Mhm (...)
+[E] Y tú, ¿cómo eres?
+[P] También soy medio reservado, creo que a veces soy más social como mi mamá o a veces más callado como papá [risas]
+[E] Mhm. ¿y tu también vas a la iglesia mucho?
+[P] Cuando estoy en Nogales, como que he dejado de ir a la iglesia en Nogales. Mm, y aquí, este domingo fui a una iglesia… nueva que acaba de inaugurarse.
+
+00:28:10.000 --> 00:29:01.000
+[E] Mhm.
+[P] Y no sé si me gustó pero es- estoy buscando una iglesia
+[E] Dónde ir
+[P] Adónde ir
+[E] Mhm, no sí, está bien. ¿Y qué te parece Tucson? O sea, ¿de los ¿Tucson?/ últimos dos meses que ten, que tienes aquí? ¿Es muy diferente de Nogales o no?
+[P] Sí, de Nogales.
+[E] De Phoenix también.
+[P] Sí, es muy diferente de todos estos pueblos.
+[E] Mhm, explícame esto, ¿cómo son-? ¿Cómo son los lugares? ¿Y cómo son diferentes?
+[P] Bueno, Nogales es un pueblo chiquito y todos mm se conocen. Es fácil conocer, aquí, no es tan como que se conozcan todos [risas] porque es más grande pero aquí también hay más, diversidad,ss racial.
+[E] Mhm
+[P] Hay más gente
+[E] Cultural
+[P] Ma, más culturas, y luego en Phoenix, como que se ve menos latino, uhm, menos gente de hispanohablante.
+
+00:29:02.000 --> 00:30:01.000
+[E] Mhm.
+[P] Que en Tucson.
+[E] ¿Y cómo fue eso? O sea, ¿cómo pasastes, pasastes cuatro años allá?
+[P] Uhuh. Cuatro años.
+[E] ¿Y: te gustó? ¿No te gustó? ¿O qué te gustó? ¿Qué no te gustó? Uhm, ¿Cómo fue uhm, ASU (PI)? Me puedes explicar un poco de eso.
+[P] Hay muchas cosas que [risas], que si me gustan, uhm, del lugar. Por ejemplo, el clima, en tiempos fríos, no es tan… tan feo como Nogales que se pone mas frío. Uhm (…) creo que la gente es más (…) como que tiene más atracsón- atracción a la escuela a ciertas, ciertos tipos de gente más fiesteras, más groseras también se puede decir.
+[E] ¿Sí?
+[P] Uhuh [risas]. Y hay, bueno, hay menos gente que habla español. Sí.
+[E] Tons, ¿fue difícil entonces este…?
+[P] No fue difícil estar allí pero esto es una diferencia que noto
+
+00:30:02.000 --> 00:30:59.000
+[E] ¿Y qué te parece aquí? O sea, ¿te gusta? ¿Estás (...)
+[P] Estos dos meses (...)
+[E] feliz por estar aquí? O:
+[P] Mhm.
+[E] ¿Extrañas a Phoenix o a Nogales?
+[P] [risas] Nogales no está tan lejos y no la verdad casi no lo extraño y tampoco extraño tanto Phoenix.
+[E] ¿Y vas seguido a Nogales?
+[P] Últimamente no he ido [risas]. En esto:s: dos meses casi no
+[E] Mhm. Está muy bien eso. [risas] no está muy bien, este, yeah (CC). Acostumbrarte aquí
+[P] Es que son mis papás que vienen más a vernos.
+[E] Ah, ¿y qué hace tu hermano aquí? ¿Es estudiante también?
+[P] Sí, estudia antropología pero (…) dice que quiere terminar antropología, conseguir (…) algo de Library Management (CC) y luego quiere estudiar, seguir estudiando otra cosa que se llama Computer Science (CC), ciencia de computadoras.
+[E] ¿Y está en la licenciatura?
+[P] Mhm.
+
+00:31:00.000 --> 00:32:33.000
+[E] ¿Qué edad tiene?
+[P] Veinte años.
+[E] Veinte años. Entonces, ¿nomás son ustedes dos? Muy bien [risas]. Y, este, ¿has viajado? (…) ¿A otros lugares? ¿O nomás a México y a Arizona?
+[P] Nunca he salido del Southwest (CC) de los Estados Unidos y el norte de México [risas], he ido a Texas, he ido a California (...)
+[E] ¿Y qué te parece? ¿Te gustan o no? O sea, ¿muy diferente de aquí?
+[P] Mm, hay un pueblo en… Nuevo México, Glorieta, Nuevo México que fui con una iglesia, o con los jóvenes de la iglesia y es: uno de los lugares más (…) más bonitos que he visto en el suroeste de los Estados Unidos.
+[E] ¿Sí?
+[P] Mhm.
+[E] ¿Y a dónde te gustaría ir? So (CC), si pudieras ir a cualquier lugar o a cualquier país, um (...)
+[P] ¿Del mundo? Um (...)
+[E] ¿Francia? ¿Para practicar tu francés?
+[P] Pues, francés lo aprendí, en realidad empecé a aprender francés porque no quer- en mi escuela tenía que aprender un idioma que no fuera inglés, o, o español o francés, es todo lo que ofrecían y no quería seguir con el español, ya lo hablaba desde que era chiquito y dije que "mejor algo nuevo, francés" y por eso aprendí francés y por eso lo seguí estudiando un poco después. Pero yo tengo mucho interés por ir al a conocer (…) idioma y cultura, idiomas y culturas de de Asia.  Como japonesa o coreana, por ahí, china.
+
+00:32:34.000 --> 00:33:12.000
+[E] Mhm. Wow, esto sería
+[P] Nomás que pues no sé nada de, pero tengo interés por aprender. Me ha sido (…)  como tengo sueños que no mm, bueno, intereses
+[E] Mhm. ¿Y tú tienes carro aquí?
+[P] No, no conduzco.
+[E] ¿Ah no? ¿No sabes o (...)?
+[P] Tengo licencia [risas]
+[E] ¿Sí? Ay sí, eso es (...) Entonces, este, ¿usualmente usas el camión o nomás caminas o cómo llegas a los lugares distintos? Como para ir a Safeway (CC) o para ir a Fry's (CC), algo así (...) ¿Qué haces?
+
+00:33:13.000 --> 00:33:59.000
+[P] En camión.
+[E] ¿En camión?
+[P] Sí pero casi no voy, mi hermano es el que hace las compras /¿ah sí?/ y yo nomás camin-
+[E] ¿Tú lo mand-, tú lo mandas?
+[P] Yo nomás camino a la escuela [risas], a la casa y ya. 
+[E] ¿Y qué más haces después de las clases? O sea… ¿sales?
+[P] Casi no.
+[E] ¿O has conocido a nuevas personas? ¿Nomás a nosotros? [risas]
+[P] Sí, casi
+[E] También estoy en lo mismo.
+[P] ¿Oh sí?
+[E] Mhm.
+[P] Sí, casi no salgo. /sí/ Me quedo mucho en casa.
+[E] Demasiadas cosas que hacer de la escuela, ¿verdad? Las tareas…
+[P] Mhm. Las tareas y las calificaciones de los estudiantes
+[E] Ah sí, ¿cómo vas? ¿Tus clases? ?Estás ensian (...)
+[P] Enseño una clase de Español 102.
+[E] ¿Una clase nomás?
+[P] Una clase nomás.
+
+00:34:00.000 --> 00:35:04.000
+[E] Mhm. ¿Y qué te parece? O sea, ¿cómo va?
+[P] Es la primera vez que enseño y: pues  
+[E] ¿Muy difícil?
+[P] Es algo muy diferente para mí porque yo siempre he sido muy reservado y un maestro tiene que ser más…no sólo más social sino también muy amable con los chicos y muy positivo, se me dificulta a veces pero ahí voy creo
+[E] ¿Tienes como primeras impresiones? ¿O algunos ejemplos de cosas que te ha pasado mientras que has estado ensañado aquí por primera vez?
+[P] ¿Como anécdotas de (...)?  ¿No? Todavía no, no se me viene nada a la mente
+[E] ¿Y no tienes ningún problema hasta ahora con los chicos?
+[P] Me tocó un grupo joven, son puros freshman (CC), fiesteros, muy sociales, no así, y les gusta mucho hablar, tengo problemas a veces con que se callen, pero creo que ya van relajándose mientras va el semestre, ¿no?
+
+00:35:05.000 --> 00:35:59.000
+[E] Mhm. Y, y entonces, ¿el semestre que viene te toca enseñar dos? Porque este
+[P] Creo que sí porque
+[E] este semestre es retención, o reduction (CC) digo.
+[P] Sí me dieron reduction (CC), sí para empezar estuvo bien porque las clases por alguien que apenas va empezando.
+[E] Mhm.
+[P] Ya el semestre que viene con, con el favor de Dios yo creo que ya
+[E] Mhm
+[P] Sería más listo para dos clases.
+[E] ¿Y qué clases estás tomando?
+[P] Tengo la clase de fonología y fonética perceptual cognitiva y una clase de los instructores nuevos de- para instructores nuevos.
+[E] Sí, está bien. ¿Y qué clases piensas tomar el semestre que viene?
+[P] No he visto las clases que van a ofrecer. Creo que…
+[E] Te mando el e-mail
+[P] Fonología II, creo que es la que sigue, no sé si XY va a dar algo de sintaxis.
+
+00:36:00.000 --> 00:37:04.000
+[E] Se supone, este, y también hay una clase que es requisita que es la five oh one (CC) que todos tenemos que tomar
+[P] Ah la introducción a, esas tres y si XY hace alguna clase de traducción, he oído que va a hacer una clase de esa traducción
+[E] ¿Vas a tomar cuatro?
+[P] Si la ofrecen, sí.
+[E] Es mucho.
+[P] Bueno, hay otros que lo hacen.
+[E] Mhm, pero también con dos clases.
+[P] Bueno, pues a la mejor no ha- hago una de las que no sea requeri-requisitos.
+[E] Sí. Este, ¿Qué te iba a preguntar? [risas] Tenía algo en mente y ya se me fue [risas] 
+[P] Perdón.
+[E] No, no, no, está bien. Uh, mejor regresamos a hablar de las familias.
+[P] Oh okey.
+[E] Y entonces, ¿qué tradiciones familiares tiene tu familia? ¿O tenía (...)?
+[P] Bueno, se han XXX mucho, o sea hacemos Thanksgiving, Navidad, siempre hemos hecho Navidad, no festejamos mucho los cumpleaños. Tal vez un pastel y ya. A mí nunca me hicieron piñata desde niño
+
+00:37:05.000 --> 00:38:07.000
+[E] ¿Y cuándo cumples años?
+[P] El siete de diciembre
+[E] Oh
+[P] Pearl Harbor Day (CC)
+[E] ¡Sí:! [risas]. También es el día del examen final, ¿no?
+[P] Sí, siempre me toca que es en los últimos días del semestre
+[E] Mhm
+[P] Y la verdad nunca le pongo atención casi a mi cumpleaños.
+[E] ¿No?
+[P] M-m (negación)
+[E] No, no, está bien. Y entonces como, ¿ha cambiado mucho, este, las tradiciones, este, desde que eras niño en tu familia? O sea, ¿cómo la navidad?
+[P] Mm, no.
+[E] No.
+[P] Siempre lo han hecho a la misma man-, bueno pues (…) mientras van creciendo compran menos y menos regalos [risas], menos, prestan menos atención porque ya, ya todos los sobrinos son más grandes ya, nosotros somos más grandes y ya
+[E] Y en el futuro, o sea, ¿qué (...)? Como cinco años, ¿qué quieres estar haciendo? ¿Qu- Qué te gustaría estar haciendo? ¿Qué quieres en tu vida?
+
+00:38:08.000 --> 00:39:03.000
+[P] No sé. Tal vez dar clases. Yo era estudiante de arte en la universidad antes de entrar a español. Quiero terminarlo, no sé. Porque lo empecé y lo quiero terminar [risas]
+[E] Mhm. No, no, no, sí, sí, muy, está muy bien. Y entonces, en tu tiempo libre, ¿qué haces por lo general? ¿Estudiar? [risas]
+[P] No, casi no [risas] Mm, toco un poco el teclado, el piano. Uhm, toda-a veces dibujo, casi no, y a veces se me da por leer un un libro, siem- siempre escojo ficción y siempre es alguna fantasía o ciencia ficción, algo así. Uhm y veo programas a veces de televisión y ya. [risas]
+[E] ¿Piensas que pudieras ser escritor de science fiction (CC) o (...)?
+[P] ¿Yo? No tengo la formación para eso. [risas] No sé. [risas]
+
+00:39:04.000 --> 00:40:04.000
+[E] Pero tal vez pudieras[risas] (…) Muy bien. Y unas preguntas sobre eso, o sea, tu uso también de lenguaje. Este, para (…) y cuando conoces a una persona latina por primera vez, ¿cómo sabes si hablar en inglés o español?
+[P] ¿Qué no he hablado con esa persona? ¿Pero pienso yo que es latino? Le hablo en inglés porque: pues es el idioma oficial del país y me ha ocurrido antes que hablo español a, le hablo español a alguien que yo pienso que habla español, porque me parece latina y me contestan como que, "What?" (CC) o "I don't speak Spanish" (CC) [risas] salen con algo así
+[E] Sí, ¿Y ha pasado como al revés? ¿Que hablas en inglés con alguien y se ofenden por hablar en inglés?
+[P] No, aquí nunca me ha pasado eso.
+[E] ¿No?
+[P] Pero a veces descubro después que hablan español y poco a poco vamos más al español
+
+00:40:05.000 --> 00:41:18.000
+[E] Mhm, que el inglés
+[P] Me ha pasado eso, mhm.
+[E] Entonces, ¿tú dirías que eres bilingüe?
+[P] ¿Del español e inglés? Sí.
+[E] Mhm. Y entonces, ¿qué requiere ser bilingüe? O sea, para ti, ¿qué es ser bilingüe?
+[P] Hablar… constantemente los dos idiomas… y aquí es obvio que puedes hablar los dos, uhm, leerlos, escribirlos a un nivel adecuado, uhm (…) bueno hablar, leer, escribir, ¿qué más?
+[E] Mhm. Y cuando ves la televisión, ¿la ves en español o inglés?
+[P] Desde chiquito veía muchos programas en español pero ya últimamente no, nomás en inglés [risas]
+[E] ¿Y qué tal la música?
+[P] Una combinación.
+[E] Mhm. Sí, no, está muy bien. ¿Y hay lugares aquí en el sur de Arizona donde nomás se hablan el inglés? ¿O el español? ¿Como, regiones distintas donde se conocen mejor por hablar más inglés o más español?
+
+00:41:19.000 --> 00:42:04.000
+[P] (…) No se me ocurre.
+[E] Mm [risas] ¿Nogales más español que inglés? ¿O hablan inglés también? ¿O?
+[P] Se habla los dos en la calle. Hay gente que no habla bien el inglés. Pero casi todos hablan español
+[E] Entonces, no hay mucha gente que no habla español
+[P] ¿En Nogales que no hable? No. A veces hay gente de fu-de por afuera, gente que se nota que no es de allí porque no es de color moreno. Uhm y esa gente a veces no habla español
+[E] Uh huh, sí está bien
+[P] Pero es raro ver en Nogales.
+[E] Sí, nomás son visitando o algo.
+[P] No, que se mudaron
+[E] ¿Ah sí?
+[P] Mhm.
+[E] Pero, ¿para qué…se mudaría allá?
+[P] Hay gente que se muda, [risas] de afuera y no habla bien el español. [risas]
+
+00:42:05.000 --> 00:42:59.000
+[E] Qué interesante, ¿no? ¿Y hay palabras o expra-expresiones que solamente usas en inglés?
+[P] No entiendo la pregunta.
+[E] Como, por ejemplo, te doy, uh, un ejemplo de, de mi vida personal. Siempre: cuando se trata de la lingüística, a veces es mu:y difícil para mí hablar en inglés sobre el tema por:que /oh/ cuando recibí mi enseñanza de lingüística, todo fue en español.
+[P] Sip.
+[E] Entonces, a veces para mí… cuando escucho "phoneme" (CC) no es lo mismo que fonema. [risas] ¿Verdad? Entonces, ¿hay algo así como para ti en inglés o en español?
+[P] ¿Que se me dificulte?
+[E] Mhm.
+[P] ¿Pensar en un idioma de algo que conozco en otro idioma? No sé, no se me viene nada a la mente.
+[E] Mhm.
+
+00:43:00.000 --> 00:44:15.000
+[P] Podría ser lo mismo con la lingüística tal vez, la conozco mejor en español que en inglés. Uhm, a veces XY por ejemplo…que nos da un articulo en inglés de: ¿cómo se llama el curso?
+[E] ¿De percepción de habla?
+[P] Sí, percepción del habla, nos da algo en inglés para leer en casa y se pone a hablar de él en español y me confundo mucho porque 
+[E] A mí también me pasa.
+[P] Por ejemplo, coarticulación por coms-compensación por coarticulación, coarticulation (CC). Y por ejemplo, ¿qué es eso? Me confundió, no sé.
+[E] Mhm, sí, sí.
+[P] Que hablara así, por ejemplo. Eso podría ser un ejemplo.
+[E] No, no, sí, sí está bien, este
+[P] Oh sí, una cosa sí, la música. Uhm, conozco las claves en inglés, por ejemplo, key of A minor (CC) y en español es do-re-mi-fa-so-la-si-do, B menor para flat (CC) menor para minor (CC) y no sé, no sé traducirlo, eso sí no sé explicarlo, porque me ha pasado que hablo con gente que lo conocen y no me sé entender con ellos por eso, uhuh.
+
+00:44:16.000 --> 00:45:05.000
+[E] Mhm, sí también pasa. Como por ejemplo a veces es- es más fácil para mí, es más fácil, o sea, cosas de la escuela mejor en español pero cosas de como mi familia, o mis propias emociones en inglés. /Mhm/ porque pues, me crié en inglés con mis papás. También, este, para decir cosas como "I love you" (CC), para mí significa más que "te amo" ¿verdad? Pero tal vez para ti será diferente como con tus papás, cuando te dicen cosas así es
+[P] "Te quiero"
+[E] Sí, significa más para ti en español, ¿no?
+[P] Uhuh. Aunque últimamente he visto que más y más hay gente…de mi familia usa más "te amo" y a mí siempre se me hace muy raro porque "te amo" es un nivel más
+
+00:45:06.000 --> 00:46:01.000
+[E] ¿Cómo?
+[P] íntimo y romántico se me hace más.
+[E] Ah, entre parejas.
+[P] Para mí, creo. No sé.
+[E] Y en el futuro, ¿piensas casarte?
+[P] No está en mis planes casarme. [risas]
+[E] ¿No?
+[P] No.
+[E] ¿Por una razón especifica o (...)?
+[P] No. Nomás nunca le he dado mucho pensamiento.
+[E] ¿No? Y algún día, ¿estás (...)? ¿Has pensado en tener hijos?
+[P] Tampoco. [risas] Bueno, pues, a veces digo que, ‘¿qué haría yo en ese caso?' pero nomás, este, digo, no está en mis planes. 
+[E] Mhm, pero si tuvieras hijos, ¿querías que aprenderán?
+[P] Aprendieran
+[E] ¿Que aprendieran el español y el inglés? ¿O nomás el inglés o nomás el español? ¿O?
+[P] Tal vez les haría aprender español en casa y inglés después en la escuela.
+[E] Mhm. Pero, ¿esto sería algo importante para ti? ¿O que no le has pensado mucho o (...)?
+
+00:46:02.000 --> 00:47:07.000
+[P] Sí, yo creo que sí sería importante. Si yo tuviera un hijo, enseñarle español en casa BIEN, tal vez un poco de inglés porque tiene que tener contacto con gente afuera, pero español más en casa y luego afuera inglés, tal vez, ¿no?
+[E] Mhm. Sí es así pasa. Pero por ejemplo con mi familia que mis papas nomás saben el inglés, bueno, claro que para mí si tenga hijos algún día, quiero que sepan el español pero también no quiero no pudieran hablar con mis papas. Entonces
+[P] Sí
+[E] también quiero enseñarles el inglés. So (CC) esto es, está la cosa, está difícil, ¿no? Está muy bien. ¿Y tú crees que todos los hablantes del español de Tucson hablan de la misma manera? ¿O no conoces a muchas personas en Tucson para (...)?
+[P] Conozco varias personas
+[E] Mhm
+[P] Uhm, hablan como yo. Como [risas] pero pues sí hay mucho, mucha influencia del inglés y
+
+00:47:07.000 --> 00:47:59.000
+[E] Mucho más que en Nogales. ¿O Nogales también hay influencia de inglés?
+[P] S: también hay influencia de inglés. Pero es casi lo mismo.
+[E] ¿Sabes algún ejemplo?
+[P] ¿Cómo?
+[E] Como en Nogales se dice "esto" pero en Sonora se dice otra cosa o en Nogales se dice "esto" pero en Tucson otra cosa o en Phoenix otra cosa.
+[P] Mm….
+[E] Como estabas diciendo para cereal
+[P] Moiz o maizoro. Uhm: eso es sonorense, el moiz.
+[E] Mhm
+[P] Norte de Sonora porque mis primas de Sonora lo usan, moiz.
+[E] Mhm.
+[P] No, no tengo ejemplos de diferencias en Tucson, Nogales y
+[E] Mhm, ¿pero como residente de, de, este, esta área, nunca has escuchado "Bueno, pues en Tucson se habla así", "En Phoenix se habla así", "En Nogales se habla así"? ¿No?
+
+00:48:00.000 --> 00:49:26.000
+[P] Nunca me ha dado cuenta de algo así
+[E] Mhm,
+[P] M-m (Negación)
+[E] ¿O notas algún diferencia? ¿Como más marcado aquí que en Nogales?
+[P] No, tal vez nomás que acá la gente se entiende más con el inglés que en Nogales. Eso es lo que diría yo.
+[E] Mhm, está más. No, sí, está bien.
+[P] Pero ejemplos de palabras, no. O de frases, casi no.
+[E] ¿No? Oh no, sí está bien. ¿Y hay maneras en que la gente de aquí sabe de dónde es una persona a base de su habla? Si estuvieras hablando con alguien podrías decir "Ah tú eres de Phoenix, no eres de aquí." O "Tú eres de California", "Tú eres de Texas", o "Tú eres de no sé dónde, de Sonora".
+[P] Yo he visto que la gente hace eso pero yo no sé distinguirlo.
+[E] Mhm. Nomás como diferencias como el Caribe o de España o de Argentina, como…
+[P] Bueno, sí sé que, por ejemplo, tengo primos en el sur de México y primos en León que hablan muy diferente de como nosotros hablamos y cada Navidad que he pasado tiempo con ellos, mis papas me decían "Ya se te pegó el acento de tus primos" porque en el carro iba hablando como ellos. Uhm: no lo puedo imitar ahorita pero como, tienen otro acento, los primos, tengo primos en el D.F. y luego otros primos en León, Guanajuato. Y:
+
+00:49:27.000 --> 00:50:00.000
+[E] Pero, se entiende ¿verdad?
+[P] Nos entendemos pero los acentos son un poco distintos.
+[E] Mhm.
+[P] Mhm.
+[E] ¿Y nunca has ido a León a visitarlos?
+[P] M-m (Negación)
+[E] ¿O al D.F.?
+[P] Tampoco.
+[E] ¿Te gustaría ir?
+[P] Tal vez.
+[E] Mhm.
+[P] Sí.
+[E] No, no, está muy bien. [risas]
+[P] Nos han invitado muchas veces pero siempre que va alguien, nomás van como dos personas porque es una como un viaje de ultimo momento o algo así.
+
+00:50:01.000 --> 00:51:10.000
+[E] Oh, mm, ahora sí entiendo. Mhm. Y com, tal vez ya me has hablado de esto pero para ser más específico, ¿cómo es el español de Tucson diferente que el español de México? … ¿Cómo crees?
+[P] El léxico es diferente, uhm, diría que el léxico es lo único que he notado.
+[E] O tal vez la gente de aquí se hace más code-switching (CC) y en México no se hace
+[P] Sí, se hace más, uhm, también hay ciertas pronunciaciones diferentes. Por ejemplo, aquí se usa mucha la "sh" y allá se usa la "che" más… africada que fricativa.
+[E] Mhm.
+[P] En México se usa la afr- la africada meno- más que acá. Uhm, la uve, no sé si se pronuncia más acá arriba el norte que en el sur. No estoy seguro, pero que se pone que no se pronuncia, si hay lugares que se pr- que pronuncian la uve.
+
+00:51:11.000 --> 00:52:25.000
+[E] ¿Sí?
+[P] Mhm.
+[E] Mm, okey, muy bien. ¿Y tú crees que existe un lugar donde habla mejor el español? O sea, el mejor español, ¿dónde se uhm, hablara eso?
+[P] No sé.
+[E] ¿O no existe un: … mejor español?
+[P] [risas] Pues en la tele mexicana la gente a veces habla con, con el dialecto estándar, ¿no? Uhm
+[E] Y para ti, ¿qué es estándar?
+[P] La que usa la televisión por ejemplo, los comerciales, las noticias
+[E] ¿Es un habla más cuidadoso, un habla más formal?
+[P] Mm: sip. También, la manera en que pronuncian por ejemplo en el norte se usa mucho… los acentos son diferentes y si una persona del norte de México se conoce con una persona del centro de México y empiezan a hablar, notan la diferencia de volada… Algo así por, los acentos y también uso de palabras, porque hay palabras que
+
+00:52:26.000 --> 00:53:07.000
+[E] ¿Cómo? ¿Sabes un ejemplo? ¿Tienes un ejemplo de esto?
+[P] Mm… no.
+[E] ¿No?
+[P] No se me ocurre nada ahorita, perdón.
+[E] No, no, está bien, no hay problema [risas]. Este, ¿y tú piensas que hablas "correctamente"? ¿Sí o no? ¿Y por qué?
+[P] No sé.
+[E] O sea, ¿cómo piensas que hablas?
+[P] ¿Cómo pienso yo? Mm, tal vez un intermedio de "muy correcto" a "muy informal". Mm: o dialec- así no sé
+
+00:53:08.000 --> 00:54:14.000
+[E] Bueno, claro que hay tiempos donde hablas más como, este, estándar y más, otros tiempos donde has, hablas como más, este, vernáculo, ¿no?
+[P] Mhm.
+[E] ¿Pero sí sabes manejar los dos?
+[P] [risas] No sé si lo sepa.
+[E] ¿No? ¿Por qué crees que no?
+[P] Bueno, es que casi no hablo con gente que yo necesito usar el estándar con ellos.
+[E] Mhm.
+[P] Así que tal vez, un nivel intermedio es el que uso más.
+[E] Mhm.
+[P] No demasiado vulgar pero tampoco demasiado refinado
+[E] Mm, gotcha (CC). Y, y entonces en la escuela cuando estabas aprendiendo el inglés, este, ¿había como alguna vez te, que te corregieron? ¿Tus profesores o tus maestros por no decir una palabra "bien" en inglés o por usar tanto, demasiado el español? ¿O? ¿Me puedes hablar un poquito de tu…de la primaria?
+
+00:54:15.000 --> 00:55:02.000
+[P] ¿En inglés?
+[E] Mhm.
+[P] Pues siempre me tocaba estar en, en, ¿cómo les dicen? remedial classes (CC)
+[E] ¿Sí?
+[P] Como ESL (PI)
+[E] Uhuh. 
+[P] Pues, porque no hablaba inglés, por eso. Las matemáticas, bien, todo bien. Uhm, todo lo que  no fuera con específicamente el inglés, lo hacía bien.
+[E] Mhm.
+[P] Pero el inglés en sí, pues tuve que tomar cursos adicionales o instrucción (54:44) que me ayudaran a aprenderlo mejor. 
+[E] Y
+[P] Y no es nada incomún en Nogales, porque hay niños que no hablan inglés.
+[E] ¿No? ¿Para nada?
+[P] Sí porque vienen de casas que no hablan inglés
+[E] Mhm, pero entonces, ¿en las escuelas, ens-les enseñan el inglés?
+
+00:55:03.000 --> 00:56:01.000
+[P] Mhm.
+[E] ¿Pero hablan en…?
+[P] Muchos de los profesores hablan español
+[E] ¿Hablen en español con los niños?
+[P] Con los niños a veces, pero se enfocan en inglés, porque pues en inglés está todo el material que tienen que cubrir
+[E] Mm, mhm. ¿Y como (...)? ¿Cuánto tiempo pasaste estudiando el esp-digo el inglés? ¿Hasta que te sentías más cómodo usándolo y leyendo y todo? ¿Cuánto tiempo te tomó?
+[P] Bueno… no, nunca, tal vez en dos años ya me podía comunicar, ya podía escribirlo pero para que me acostumbrara bien, bien, bien, como tal vez cinco años o más
+[E] Mhm. ¿Y te sientas cómodo hablando con alguien que es monolingüe en inglés?
+[P] A veces sí, bastante bien.
+[E] Mhm.
+[P] Creo que me comunico bien en inglés, HABLANDO. [risas]
+
+00:56:02.000 --> 00:57:01.000
+[E] Mhm.
+[P] Me han dicho que tengo un acento pero no saben de dónde.
+[E] ¿Sí?
+[P] Así que si no identifican que soy mexicano en mi acento pues quiere decir que no soy un hablante nativo, no, no imito a los hablantes nativos a un nivel mu:y exacto pero pues, si no saben identificar cual fue mi idioma nativo, pues está bien, ¿no?
+[E] Mhm.
+[P] No me. Lo hablo a un nivel bastante aceptable creo. [risas]
+[E] Claro. ¿Y has intentado alguna vez cambiar tu manera de hablar?
+[P] Mm:
+[E] Como en la escuela, o con los amigos o ¿estás consciente de que, “¡ah! tengo que hablar más así o tengo que hablar más de otra manera"?
+[P] Sí creo que [risas] me trato de adaptar mucho a la manera en que hablan las personas a mi alrededor.
+
+00:57:02.000 --> 00:57:59.000
+[E] Mhm
+[P] Mhm, creo que sí
+[E] Pero, ¿es muy fácil para ti hacerlo o lo haces incons- inconscientemente?
+[P] Manera consciente a veces y no sé si sea fácil, no sé. [risas]
+[E] Pero lo haces.
+[P] Lo intento hacer [risas]
+[E] ¿Y hay algo que te moleste de la manera en que hablan, por ejemplo, tus papas? ¿O tus familiares? ¿O tu hermano? ¿O tus amigos? ¿O?
+[P] ¿Que me moleste?
+[E] Mhm.
+[P] Creo que te ha dicho a ti esto pero mi papá, a cada rato quiere hablar como… como los jóvenes, de la calle. Y eso me molesta a veces. [risas] 
+[E] Es como, "Ay papa: ya etás muy viejo" [risas]
+[P] Bueno, no le digo pero mi mamá, a veces dice frases en inglés, que ella piensa que así se dicen pero que no se dicen así. 
+
+00:58:00.000 --> 00:59:07.000
+[E] Mhm.
+[P] Por ejemplo:
+[E] ¿Y tú le corriges?
+[P] No, nunca le he dicho. [risas] Por ejemplo, mm: ¡ay! tengo ejemplos y se me borran, uhm. No. No se me viene nada a la mente.
+[E] Por ejemplo sim-si mi mamá intenta hablar español, lo que pasa es que con mi familia, mi abuela nació en Coahuila
+[P] Mhm
+[E] Y pero era una familia de migrantes, entonces fueron a Indiana a, para la pisca, uhm, the fields. Y después allí se quedaron. Entonces allí nació mi mamá pero en los años sesenta, y Indiana en los años sesenta no se hablaba mucho el español en Indiana, es por eso mi mamá y mi tío no hablan para nada el español. So saben palabras, son mexicoamericanos, pero la verdad se identifican más con la cultura que con la lengua, que es muy común, ¿verdad? para personas que se criaron aquí, o puede ser muy común
+
+00:59:08.000 --> 01:00:03.000
+[P] Mhm
+[E] Especialmente en el, uhm, medio-oeste del país, ¿no? porque no hay tantas personas hispanohablantes. Pero mi mamá intenta tanto hablar el español conmigo [risas] pero las cosas que dice, pues, sabe como el español de la calle, ¿verdad? porque mi familia, o sea, mis, mis bisabuelos, mi abuela, no tenían mucho educación formal, este, eran mas, este, de clase trabajadora, este, pasaban mucho tiempo, uhm, en, piscando fruta, uhm, strawberries (CC) 
+[P] Mhm.
+[E] Mhm, es lo que hacían. Y entonces, este, dice como "ven pa'ca", dice como "ven pa'ca" [risas] o me dice como, no sé, como a mí me dice "mami", que es muy común, ¿verdad? pero por ejemplo para la familia de mi papá, son angloamericanos
+
+01:00:04.000 --> 01:01:01.000
+[P] Mhm
+[E] Y son bautistas, bautistos, y en el lado de mi mamá son católicos, entonces como que ah
+[P] Challenging (CC) [risas]
+[E] A veces. pero por ejemplo, mi hermano mayor, que viene del primer matrimonio de mi papá, tiene dos hijas, so tengo dos sobrinas, y siempre le, les digo "Ay mami" o "Ay mamas" [risas] pero mi hermano, este, y no lo noto, la verdad es que siempre cuando estoy con niños, siempre les digo así, ¿verdad?, y mi hermano estaba como que "mm, no quiero que hables así con ellas porque eh, les como, les confunde" ¿verdad? Porque para ellas "mama" es la esposa de mi hermano
+[P] Mm.
+[E] ¿Verdad? La mamá. Y entonces, este, fue algo que para mí, no sé. Nunca había prestado atención
+
+01:01:02.000 --> 01:02:15.000
+[P] Mhm.
+[E] Entonces es uhm, son cosas así, no sé si te-tienes algún ejemplo de tu, de tu mamá, o de las diferencias, o (...) pero desde lado de tu mamá y de lado de tu papá son, los dos son mexicanos, ¿no? Entonces, no hay esta (...) 
+[P] [risas] No, casi no
+[E] comparación, sí, sí pasaba mucho. Y, este, no, yo creo que es todo. Este, ¿algo-alguna otra cosa que quieres decir sobre el español de Tucson? [risas] ¿O sobre tu estancia  aquí?
+[P] Pues, hasta ahora estoy muy satisfecho y muy, ¿cómo diría? uhm, agradezco mucho que me ha tocado esta oportunidad también, de estudiar aquí. Porque, bien, no pago la matricula de la escuela, no pago, me pagan por enseñar, uhm, y pues hasta ahora todo ha ido bien y estoy agradecido.
+
+01:02:16.000 --> 01:02:39.000
+[E] Claro.
+[P] Sí.
+[E] Así estamos todos, ¿no? [risas] No, pero muchas gracias, este, para estar aquí con nosotros. Uhm, por tu tiempo
+[P] No hay de qué
+[E] Te lo agradezco mucho, espero que sigamos hablando en el futuro [risas] y estamos-nos estamos viendo en las clases.
+[P] Claro. 
+[E] Otra vez, muchas gracias. 
+[01:02:39]
